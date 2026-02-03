@@ -39,7 +39,7 @@ And finally the whole case put together! (insert drumroll sound!!)
 | PCB | 1x | 9.82 |
 | **Total (Approx.)** |  | **18-20 USD** |
 
-# thank you so much for viewing this btw this was a very fun project to do
+# thank you so much for viewing this btw this was a very fun project to do! 💖
 
 update: i will probably update this design so its more visually appealing since there's a lot of things i wanna fix but this is for the submission 
 
