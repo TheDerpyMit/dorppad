@@ -8,6 +8,8 @@ heya! this is DorpPad, (or NikoKaltryxPad). It is a 6 button macropad with a rot
 
 i also wanted to leave a hole for the led's to shine through but i decided i can probably cut out the case and put thin blured out plastic to make it look like pixels but i wasn't so sure about it so i didn't do it in this version..
 
+the code is very incomplete and mostly chatgpt since i plan on redoing it when i get the parts to make this 🥹
+
 # Assembly
 <img width="925" height="493" alt="image" src="https://github.com/user-attachments/assets/23de5c05-2c73-4286-a65d-c5772b9c239f" />
 
