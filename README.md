@@ -11,7 +11,7 @@ i also wanted to leave a hole for the led's to shine through but i decided i can
 the code is very incomplete and mostly chatgpt since i plan on redoing it when i get the parts to make this 🥹
 
 # Assembly
-<img width="925" height="493" alt="image" src="https://github.com/user-attachments/assets/23de5c05-2c73-4286-a65d-c5772b9c239f" />
+<img width="970" height="577" alt="model" src="https://github.com/user-attachments/assets/076e09ce-8e7e-453d-9dd2-408c66b40191" />
 
 # PCB
 <img width="1126" height="497" alt="image" src="https://github.com/user-attachments/assets/418bab2a-dab2-481c-8007-5f03c439484a" />
