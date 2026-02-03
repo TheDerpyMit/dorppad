@@ -14,7 +14,7 @@ the code is very incomplete and mostly chatgpt since i plan on redoing it when i
 <img width="970" height="577" alt="model" src="https://github.com/user-attachments/assets/076e09ce-8e7e-453d-9dd2-408c66b40191" />
 
 # PCB
-<img width="1126" height="497" alt="image" src="https://github.com/user-attachments/assets/418bab2a-dab2-481c-8007-5f03c439484a" />
+<img width="1105" height="498" alt="image" src="https://github.com/user-attachments/assets/092a9a4e-4216-4a5f-beae-26f59c164276" />
 
 # Schmatic
 <img width="1286" height="669" alt="image" src="https://github.com/user-attachments/assets/12eb7f97-a880-4c63-9f49-84721e52b892" />
