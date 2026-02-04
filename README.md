@@ -14,10 +14,10 @@ the code is very incomplete and mostly chatgpt since i plan on redoing it when i
 <img width="970" height="577" alt="model" src="https://github.com/user-attachments/assets/076e09ce-8e7e-453d-9dd2-408c66b40191" />
 
 # PCB
-<img width="1105" height="498" alt="image" src="https://github.com/user-attachments/assets/092a9a4e-4216-4a5f-beae-26f59c164276" />
+<img width="1213" height="627" alt="image" src="https://github.com/user-attachments/assets/7d3b8f50-4ef3-4c5f-bfb2-01954da756f4" />
 
 # Schmatic
-<img width="1286" height="669" alt="image" src="https://github.com/user-attachments/assets/12eb7f97-a880-4c63-9f49-84721e52b892" />
+<img width="1337" height="679" alt="image" src="https://github.com/user-attachments/assets/f41989ff-0bab-478a-a87d-dbffc53c7a2a" />
 
 # Case parts!!
 
